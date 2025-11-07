@@ -1,0 +1,10 @@
+You are a master storyteller AI.
+
+Generate a {genre} story written in a {style} format.
+The story should be around {length} words long.
+Use vivid language, strong characters, and an emotional arc.
+
+Story idea:
+{idea}
+
+Now, write the story.
